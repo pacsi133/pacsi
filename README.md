@@ -1,50 +1,8 @@
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>pagina- | Aprovecha estos descuentos por Navidad, ¡son una locura!</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="pagina-" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Aprovecha estos descuentos por Navidad, ¡son una locura!" />
-<meta property="og:description" content="Aprovecha estos descuentos por Navidad, ¡son una locura!" />
-<link rel="canonical" href="https://pacsi133.github.io/pagina-/" />
-<meta property="og:url" content="https://pacsi133.github.io/pagina-/" />
-<meta property="og:site_name" content="pagina-" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="pagina-" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Aprovecha estos descuentos por Navidad, ¡son una locura!","headline":"pagina-","name":"pagina-","url":"https://pacsi133.github.io/pagina-/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/pagina-/assets/css/style.css?v=5295eeff774bee7fc176cc5aaa6db1124ca1f6b3">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/pagina-/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://pacsi133.github.io/pagina-/">pagina-</a></h1>
-      
-
-      <p>&lt;!DOCTYPE html&gt;</p>
 <html lang="es">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KIARA - Ropa</title>
     <style>
         /* Estilos modificados */
@@ -152,8 +110,8 @@
     </header>
 
     <div id="buscador">
-        <input type="text" id="cuadro-busqueda" placeholder="Buscar..." />
-        <img id="lupa" src="https://imgur.com/lupa_icono.png" alt="Icono de lupa" />
+        <input type="text" id="cuadro-busqueda" placeholder="Buscar...">
+        <img id="lupa" src="https://imgur.com/lupa_icono.png" alt="Icono de lupa">
     </div>
 
     <section class="ofertas-especiales">
@@ -164,7 +122,7 @@
         <h2>Ofertas Especiales</h2>
 
         <div class="producto">
-            <img src="https://source.unsplash.com/240x240/?clothing,blue" alt="Polo de lana azul" />
+            <img src="https://source.unsplash.com/240x240/?clothing,blue" alt="Polo de lana azul">
             <div class="texto-precio">
                 <p>Polo de lana azul</p>
                 <p>Precio: S/ 99</p>
@@ -172,7 +130,7 @@
         </div>
 
         <div class="producto">
-            <img src="https://source.unsplash.com/240x240/?clothing,white" alt="Polo blanco bonito" />
+            <img src="https://source.unsplash.com/240x240/?clothing,white" alt="Polo blanco bonito">
             <div class="texto-precio">
                 <p>Polo blanco bonito</p>
                 <p>Precio: S/ 79</p>
@@ -181,16 +139,14 @@
 
         <!-- Imágenes restauradas -->
         <div class="producto">
-            <img src="https://source.unsplash.com/240x240/?clothing,red" alt="Polo rojo elegante" />
+            <img src="https://source.unsplash.com/240x240/?clothing,red" alt="Polo rojo elegante">
             <div class="texto-precio">
                 <p>Polo rojo elegante</p>
                 <p>Precio: S/ 89</p>
             </div>
         </div>
 
-        
-</div></section></body></html>
-
+        <div class="producto">
 
       
  
